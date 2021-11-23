@@ -14,3 +14,4 @@
 - Day 10 - Beginner - Functions with Outputs
 - Day 11 - Beginner - The Blackjack Capstone Project
 - Day 12  - Beginner - Scope & Number Guessing Game
+- Day 13 - Beginner - Debugging_ How to Find and Fix Errors in your Code
